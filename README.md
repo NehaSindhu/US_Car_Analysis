@@ -1,6 +1,6 @@
 # US_Car_Analysis
 
-This repository is having all the codes regarding the AI/ML Skill India Scholarship Assignment on US Car Analysis using the Cars.csv
+This repository is having all the codes regarding US Car Analysis using the Cars.csv
 
 -----
 ### About the Repository?
